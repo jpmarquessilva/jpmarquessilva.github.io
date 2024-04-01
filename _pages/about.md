@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>.
+ICREA Research Professor, University of Lleida, Catalunya, Spain.
+##Address. Contacts. Moto. Etc.
 
 profile:
   align: right
