@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a
-href='#'>Affiliations</a>. [ICREA](https://www.icrea.cat/),
-[University of Lleida](https://www.udl.cat/ca/en/), Catalunya, Spain.
+subtitle: <a href='#'>Affiliations</a>. ICREA, University of Lleida, Catalunya, Spain.
 
 profile:
   align: right
