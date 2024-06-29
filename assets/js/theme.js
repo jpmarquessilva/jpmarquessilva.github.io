@@ -209,7 +209,7 @@ let determineComputedTheme = () => {
   let themeSetting = determineThemeSetting();
   if (themeSetting == "system") {
     const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+    if (userPref && (userPref("(prefers-color-scheme: dark)").matches || true)) {
       return "dark";
     } else {
       return "light";
