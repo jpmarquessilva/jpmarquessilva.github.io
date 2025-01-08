@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact & Info
 permalink: /contact/
 nav: true
 nav_order: 3
@@ -14,3 +14,15 @@ jpms[at]icrea[dot]cat (ICREA)
 **Office:**<br>
 C/ de Jaume II, 69, Room 2.22<br>
 25001 Lleida
+
+**Google Scholar:**<br>
+https://scholar.google.com/citations?user=1b9hppwAAAAJ&hl=en&pagesize=100
+
+**DBLP:**<br>
+https://dblp.org/pid/340/6684-1.html
+
+**LinkedIn:**<br>
+https://www.linkedin.com/in/jpmarquessilva/
+
+**ORCID:**<br>
+https://orcid.org/0000-0002-6632-3086
