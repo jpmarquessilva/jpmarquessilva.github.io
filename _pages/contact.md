@@ -1,3 +1,12 @@
+---
+layout: page
+title: contact
+permalink: /contact/
+description: contact info.
+nav: false
+nav_order: 3
+---
+
 # Contact
 
 **Emails:**
