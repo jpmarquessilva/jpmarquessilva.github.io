@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. ICREA, University of Lleida, Catalunya, Spain.
 

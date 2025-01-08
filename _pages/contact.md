@@ -6,7 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-# Contact<br>
 
 **Emails:**<br>
 jpmarquessilva[at]gmail[dot]com (personal) <br>
