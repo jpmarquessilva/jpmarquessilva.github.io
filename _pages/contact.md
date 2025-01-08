@@ -1,13 +1,12 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact/
-description: contact info.
 nav: true
 nav_order: 3
 ---
 
-# Contact
+# Contact<br>
 
 **Emails:**
 
