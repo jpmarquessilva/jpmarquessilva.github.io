@@ -24,7 +24,7 @@ C/ de Jaume II, 69, Room 2.22<br>
 **LinkedIn:**<br>
 [https://www.linkedin.com/in/jpmarquessilva/](https://www.linkedin.com/in/jpmarquessilva/)
 
-**BlueSocial:**<br>
+**BlueSky:**<br>
 [https://bsky.app/profile/jpmarquessilva.bsky.social](https://bsky.app/profile/jpmarquessilva.bsky.social) (I'm not active, but that might change!)
 
 **Github:**<br>
@@ -34,8 +34,7 @@ C/ de Jaume II, 69, Room 2.22<br>
 [https://orcid.org/0000-0002-6632-3086](https://orcid.org/0000-0002-6632-3086)
 
 **Facebook:**<br>
-As of 2025/01/07, I'm no longer supporting Facebook
+As of 2025/01/08, I'm no longer maintaining my Facebook account...
 
 **Twitter/X:**<br>
-I have terminated my Twitter/X account
-
+I have terminated my Twitter/X account...
