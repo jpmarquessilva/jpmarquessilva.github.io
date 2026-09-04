@@ -12,8 +12,8 @@ jpmarquessilva[at]gmail[dot]com (personal) <br>
 jpms[at]icrea[dot]cat (ICREA)
 
 **Office:**<br>
-C/ de Jaume II, 69, Room 2.22<br>
-25001 Lleida
+IIIA/CSIC<br>
+08193 Bellaterra
 
 **Google Scholar:**<br>
 [https://scholar.google.com/citations?user=1b9hppwAAAAJ&hl=en](https://scholar.google.com/citations?user=1b9hppwAAAAJ&hl=en)
