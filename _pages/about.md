@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. ICREA, IIIA/CSIC, Bellaterra, Catalunya, Spain.
+subtitle: <a href='#'>Affiliations</a>. ICREA & IIIA/CSIC, Bellaterra, Catalunya, Spain.
 
 profile:
   align: right
