@@ -12,7 +12,7 @@ jpmarquessilva[at]gmail[dot]com (personal) <br>
 jpms[at]icrea[dot]cat (ICREA)
 
 **Office:**<br>
-IIIA/CSIC<br>
+IIIA/CSIC, room 226<br>
 08193 Bellaterra
 
 **Google Scholar:**<br>
